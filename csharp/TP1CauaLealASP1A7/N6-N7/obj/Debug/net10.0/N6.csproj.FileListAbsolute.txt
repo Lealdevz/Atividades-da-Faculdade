@@ -1,0 +1,14 @@
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/bin/Debug/net10.0/N6
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/bin/Debug/net10.0/N6.deps.json
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/bin/Debug/net10.0/N6.runtimeconfig.json
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/bin/Debug/net10.0/N6.dll
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/bin/Debug/net10.0/N6.pdb
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.GeneratedMSBuildEditorConfig.editorconfig
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.AssemblyInfoInputs.cache
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.AssemblyInfo.cs
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.csproj.CoreCompileInputs.cache
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.dll
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/refint/N6.dll
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.pdb
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/N6.genruntimeconfig.cache
+/home/leal/Downloads/TP1CauaLealASP1A7/N6/obj/Debug/net10.0/ref/N6.dll
